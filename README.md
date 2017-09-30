@@ -17,3 +17,5 @@ Making changes on the GitBash Clone to make CONFLICT!
 
 Making changes from the browser to make CONFLICT with GitBash Clone!
 
+Making changes on the GitBash main branch
+
