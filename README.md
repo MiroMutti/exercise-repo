@@ -12,4 +12,8 @@ Making change in the develope branch
 
 Add text on the GitBash clone
 
+
 Making changes on the GitBash Clone to make CONFLICT!
+
+Making changes from the browser to make CONFLICT with GitBash Clone!
+
