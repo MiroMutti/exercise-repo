@@ -11,3 +11,5 @@ Making change again in the main branch
 Making change in the develope branch
 
 Add text on the GitBash clone
+
+Making changes on the GitBash Clone to make CONFLICT!
